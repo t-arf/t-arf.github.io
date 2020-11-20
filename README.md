@@ -60,7 +60,7 @@ as well as little message that describes the intention (the "what") of a change.
 
 In this notebook, I will analyze the evolution of a very famous open-source project – the Linux kernel. 
 The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS.
-####The code can be found [here](https://github.com/t-arf/Portfolio/blob/main/Exploring-the-evolution-of-Linux/notebook.ipynb)
+#### The code can be found [here](https://github.com/t-arf/Portfolio/blob/main/Exploring-the-evolution-of-Linux/notebook.ipynb)
 ---
 
 
