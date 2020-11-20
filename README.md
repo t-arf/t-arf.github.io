@@ -1,4 +1,4 @@
-![Header]Portfolio
+![Portfolio]
 ---
 # 
 #### Data Driven Insights and Solutions | ML | DL | Python | SQL
@@ -47,16 +47,21 @@ Due to the parallelization of the various stages of the ETL processes, you shoul
 The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deployment/blob/main/Data-Pipelines-with-TensorFlow-Data-Services/utf-8''TFDS-V2-Week4.ipynb)
 ---
 
-## Project # 4:Python Geospatial Data Analysis
+## Project # 4:Exploring the Evolution of Linux
+
 ![Image3](images/.jpg)
 
 ### INTRODUCTION: 
 
+Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers.
+They contain every change to the source code including the date (the "when"), the responsible developer (the "who"),
+as well as little message that describes the intention (the "what") of a change.
 
-### RESULTS::
+In this notebook, I will analyze the evolution of a very famous open-source project – the Linux kernel. 
+The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS.
 
 
-The code can be found [here]()
+The code can be found [here](https://github.com/t-arf/Portfolio/blob/main/Exploring-the-evolution-of-Linux/notebook.ipynb)
 ---
 
 
