@@ -6,7 +6,7 @@
 ---
 
 ## Project # 1: Analysis of Stock Markets Using News Headlines
-![Image1](images/stock.PNG)
+![Image1](images/stock.JPG)
 
 News articles are automatically being generated from figures and earnings call streams?
 In this project, we will generate investing insight by applying sentiment analysis on financial news headlines 
@@ -61,7 +61,7 @@ From the current analysis, we can draw several insights such as:
 
 
 ### PROJECT # 6: An Interactive End-to-End Data Driven Web Application in Python (Streamlit)
-![Image 6](images/Capture.PNG)
+![Image 6](images/Capture.JPG)
 I worked on data-driven web applications. These applications provide an interactive view of data in the form of a dashboard. I found Streamlit (Python Framework) very useful in this regard, so I built and deployed an interactive web application using Python and Streamlit. The application is able to:
 
     1. Show the dataset on the user's choice.
