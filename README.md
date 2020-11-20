@@ -17,7 +17,7 @@ The details of our analysis can be found here: [Source Code](https://github.com/
 
 ---
 ## Project # 2: Detecting COVID-19 with Chest X-Ray using PyTorch
-![Image1](images/covid.jpg)
+![Image1](images/covid.JPG)
 ## DESCRIPTION
 
 In this project, we will use PyTorch to create and train a ResNet-18 model and apply it to a Chest X-Ray Radiography Dataset.
