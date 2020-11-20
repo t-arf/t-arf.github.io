@@ -1,4 +1,4 @@
-![Header](https://irishtechnews.ie/wp-content/uploads/2020/06/Blockchain-Big-data-AI-759x500.jpg)
+![Header](images/img.jpg)
 ---
 # Portfolio
 #### Data Driven Insights and Solutions | ML | DL | Python | SQL
@@ -6,7 +6,7 @@
 ---
 
 ## Project # 1: Analysis of Stock Markets Using News Headlines
-![Image1](images/stock.JPG)
+![Image1](images/stock.jpg)
 
 News articles are automatically being generated from figures and earnings call streams?
 In this project, we will generate investing insight by applying sentiment analysis on financial news headlines 
@@ -17,7 +17,7 @@ The details of our analysis can be found here: [Source Code](https://github.com/
 
 ---
 ## Project # 2: Detecting COVID-19 with Chest X-Ray using PyTorch
-![Image1](images/covid.JPG)
+![Image1](images/covid.jpg)
 ## DESCRIPTION
 
 In this project, we will use PyTorch to create and train a ResNet-18 model and apply it to a Chest X-Ray Radiography Dataset.
