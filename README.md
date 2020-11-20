@@ -1,4 +1,4 @@
-![Header](images/img.jpg)
+![Header]
 ---
 # Portfolio
 #### Data Driven Insights and Solutions | ML | DL | Python | SQL
