@@ -28,7 +28,7 @@ I have accomplished it in by completing the following tasks in the project:
 #### 4. Data Visualization
 #### 5. Creating the Model
 #### 5. Training the Model
-### Final Results: We are able to get about 96.67% accuracy,
+#### Final Results: We are able to get about 96.67% accuracy,
 
 The source code can be found in this [Notebook]https://github.com/t-arf/COVID-19-Data-Exploration-Visualization-and-Modelling/blob/master/Detecting%20COVID-19%20with%20Chest%20X-Ray%20using%20PyTorch/COVID-Detection-PyTorch.ipynb)
 
@@ -45,7 +45,7 @@ The source code can be found in this [Notebook]https://github.com/t-arf/COVID-19
 ### Results:
 Due to the parallelization of the various stages of the ETL processes, you should see a decrease in training time as compared to the naive approach depicted at beginning of the notebook.
 
-The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deployment/blob/main/Data-Pipelines-with-TensorFlow-Data-Services/utf-8''TFDS-V2-Week4.ipynb)
+####The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deployment/blob/main/Data-Pipelines-with-TensorFlow-Data-Services/utf-8''TFDS-V2-Week4.ipynb)
 ---
 
 ## Project # 4:Exploring the Evolution of Linux
