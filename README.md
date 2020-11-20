@@ -30,7 +30,7 @@ I have accomplished it in by completing the following tasks in the project:
 #### 5. Training the Model
 #### Final Results: We are able to get about 96.67% accuracy,
 
-#####The source code can be found in this [Notebook](https://github.com/t-arf/COVID-19-Data-Exploration-Visualization-and-Modelling/blob/master/Detecting%20COVID-19%20with%20Chest%20X-Ray%20using%20PyTorch/COVID-Detection-PyTorch.ipynb)
+##### The source code can be found in this [Notebook](https://github.com/t-arf/COVID-19-Data-Exploration-Visualization-and-Modelling/blob/master/Detecting%20COVID-19%20with%20Chest%20X-Ray%20using%20PyTorch/COVID-Detection-PyTorch.ipynb)
 
 ## Project # 3: Data pipelining for effective use of CPU and GPU with Tensorflow and TFDS
 ![Image3](images/etl.jpg)
