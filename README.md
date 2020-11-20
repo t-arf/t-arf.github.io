@@ -1,4 +1,4 @@
-![Portfolio]
+Portfolio
 ---
 # 
 #### Data Driven Insights and Solutions | ML | DL | Python | SQL
