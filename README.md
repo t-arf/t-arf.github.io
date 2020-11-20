@@ -17,9 +17,9 @@ The details of our analysis can be found here: [Source Code](https://github.com/
 ---
 ## Project # 2: Detecting COVID-19 with Chest X-Ray using PyTorch
 ![Image2](images/covid.JPG)
-## DESCRIPTION
+### Introduction:
 In this project, we will use PyTorch to create and train a ResNet-18 model and apply it to a Chest X-Ray Radiography Dataset.
-## Dataset: Dataset is from COVID-19 Radiography Dataset on [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+### Dataset: Dataset is from COVID-19 Radiography Dataset on [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 
 I have accomplished it in by completing the following tasks in the project:
 #### 1. Importing Librarie and Creating Custom Dataset
@@ -35,13 +35,14 @@ The source code can be found in this [Notebook]https://github.com/t-arf/COVID-19
 ## Project # 3: Data pipelining for effective use of CPU and GPU with Tensorflow and TFDS
 ![Image3](images/etl.jpg)
 
-### INTRODUCTION: In this project, I have parallelized the  various stages of Extract, Transform and Load processes in Tensorflow using the following steps:
+### Introduction:
+ In this project, I have parallelized the  various stages of Extract, Transform and Load processes in Tensorflow using the following steps:
 1. Parallelize the extraction of the stored TFRecords of the cats_vs_dogs dataset by using the interleave operation.
 2. Parallelize the transformation during the preprocessing of the raw dataset by using the map operation.
 3. Cache the processed dataset in memory by using the cache operation for faster retrieval.
 4. Parallelize the loading of the cached dataset during the training cycle by using the prefetch operation.
 
-### RESULTS:
+### Results:
 Due to the parallelization of the various stages of the ETL processes, you should see a decrease in training time as compared to the naive approach depicted at beginning of the notebook.
 
 The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deployment/blob/main/Data-Pipelines-with-TensorFlow-Data-Services/utf-8''TFDS-V2-Week4.ipynb)
@@ -51,7 +52,7 @@ The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deploy
 
 ![Image3](images/.jpg)
 
-### INTRODUCTION: 
+### Introduction:
 
 Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers.
 They contain every change to the source code including the date (the "when"), the responsible developer (the "who"),
