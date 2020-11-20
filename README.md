@@ -45,7 +45,7 @@ The source code can be found in this [Notebook]https://github.com/t-arf/COVID-19
 ### Results:
 Due to the parallelization of the various stages of the ETL processes, you should see a decrease in training time as compared to the naive approach depicted at beginning of the notebook.
 
-####The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deployment/blob/main/Data-Pipelines-with-TensorFlow-Data-Services/utf-8''TFDS-V2-Week4.ipynb)
+The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deployment/blob/main/Data-Pipelines-with-TensorFlow-Data-Services/utf-8''TFDS-V2-Week4.ipynb)
 ---
 
 ## Project # 4:Exploring the Evolution of Linux
