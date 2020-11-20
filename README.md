@@ -8,8 +8,7 @@
 ## Project # 1: Analysis of Stock Markets Using News Headlines
 ![Image1](images/stock.jpg)
 
-News articles are automatically being generated from figures and earnings call streams?
-In this project, we will generate investing insight by applying sentiment analysis on financial news headlines 
+In this project, I generated investing insight by applying sentiment analysis on financial news headlines 
 from FINVIZ.com. Using this natural language processing technique, we can understand the emotion behind the headlines
 and predict whether the market feels good or bad about a stock. It would then be possible to make educated guesses on 
 how certain stocks will perform and trade according.
@@ -17,55 +16,60 @@ The details of our analysis can be found here: [Source Code](https://github.com/
 
 ---
 ## Project # 2: Detecting COVID-19 with Chest X-Ray using PyTorch
-![Image1](images/covid.JPG)
+![Image2](images/covid.JPG)
 ## DESCRIPTION
-
 In this project, we will use PyTorch to create and train a ResNet-18 model and apply it to a Chest X-Ray Radiography Dataset.
 ## Dataset: Dataset is from COVID-19 Radiography Dataset on [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 
-We have accomplished it in by completing each task in the project:
-### TASKS: 
-#### 1. Importing Libraries
-#### 2. Creating Custom Dataset
-#### 3. Image Transformations
-#### 4. Prepare DataLoader
-#### 5. Data Visualization
-#### 6. Creating the Model
-#### 7. Training the Model
-#### 8. Final Results: We are able to get about 96.67% accuracy,
+I have accomplished it in by completing the following tasks in the project:
+#### 1. Importing Librarie and Creating Custom Dataset
+#### 2. Image Transformations
+#### 3. Prepare DataLoader
+#### 4. Data Visualization
+#### 5. Creating the Model
+#### 5. Training the Model
+### Final Results: We are able to get about 96.67% accuracy,
 
 The source code can be found in this [Notebook]https://github.com/t-arf/COVID-19-Data-Exploration-Visualization-and-Modelling/blob/master/Detecting%20COVID-19%20with%20Chest%20X-Ray%20using%20PyTorch/COVID-Detection-PyTorch.ipynb)
 
-## Project # 5:
-![Image5]()
+## Project # 3: Data pipelining for effective use of CPU and GPU with Tensorflow and TFDS
+![Image3](images/etl.jpg)
 
-### INTRODUCTION:
-
-### DATA:
-
-### TOOLS & TECHNOLOGIES:
+### INTRODUCTION: In this project, I have parallelized the  various stages of Extract, Transform and Load processes in Tensorflow using the following steps:
+1. Parallelize the extraction of the stored TFRecords of the cats_vs_dogs dataset by using the interleave operation.
+2. Parallelize the transformation during the preprocessing of the raw dataset by using the map operation.
+3. Cache the processed dataset in memory by using the cache operation for faster retrieval.
+4. Parallelize the loading of the cached dataset during the training cycle by using the prefetch operation.
 
 ### RESULTS:
+Due to the parallelization of the various stages of the ETL processes, you should see a decrease in training time as compared to the naive approach depicted at beginning of the notebook.
 
-### INSIGHTS & FINDINGS:
-From the current analysis, we can draw several insights such as:
+The code can be found [here](https://github.com/t-arf/TensorFlow-Data-and-Deployment/blob/main/Data-Pipelines-with-TensorFlow-Data-Services/utf-8''TFDS-V2-Week4.ipynb)
+---
 
-  5. The reduction in productivity is due to non-familiarity with distance learning and work from home.
+## Project # 4:Python Geospatial Data Analysis
+![Image3](images/.jpg)
 
-### CONCLUSION:
-[Notebook]htts://github.com/t-arf/COVID-19-Data-Exploration-Visualization-and-Modelling/blob/master/Detecting%20COVID-19%20with%20Chest%20X-Ray%20using%20PyTorch/COVID-Detection-PyTorch.ipynb)
+### INTRODUCTION: 
 
+
+### RESULTS::
+
+
+The code can be found [here]()
 ---
 
 
 
 
-### PROJECT # 6: An Interactive End-to-End Data Driven Web Application in Python (Streamlit)
-![Image 6](images/Capture.JPG)
+
+### PROJECT # 5: An Interactive End-to-End Data Driven Web Application in Python (Streamlit)
+![Image 5](images/Capture.JPG)
 I worked on data-driven web applications. These applications provide an interactive view of data in the form of a dashboard. I found Streamlit (Python Framework) very useful in this regard, so I built and deployed an interactive web application using Python and Streamlit. The application is able to:
 
     1. Show the dataset on the user's choice.
     2. Show the products corresponding to the selected sellers.
     3. Show per year MRP, discount%, and sale price.
 
-You can find the complete [source code] and demo [here]() 
+You can find the complete [source code](https://github.com/t-arf/Building-a-DS-Web-Application-with-Streamlit-and-Python)
+and demo [here](https://drive.google.com/file/d/1OlyTYVitShbGwnv1lcuALe_JavtKll-U/view?usp=sharing) 
